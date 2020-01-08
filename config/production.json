@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "rylkov alexander firs mern app",
+  "mongoUri": "mongodb+srv://rylkovAlex:RmVItf5DIW3TD9ws@clustermern-2pr6y.azure.mongodb.net/test?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
